@@ -1,4 +1,4 @@
-# 2048 Game
+# 🎮 2048 Game
 
 A simple implementation of the famous **2048 puzzle game** built with **vanilla JavaScript, HTML, and CSS**.
 The goal is to slide numbered tiles on a grid to combine them and create the **2048 tile**.
