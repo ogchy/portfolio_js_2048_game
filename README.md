@@ -5,7 +5,7 @@ The goal is to slide numbered tiles on a grid to combine them and create the **2
 
 ## 🔗 Live Preview
 
-- 🎮 [Demo Link](https://your-demo-link.com)
+- 🎮 [Demo Link](https://ogchy.github.io/portfolio_js_2048_game/)
 
 ## 🔗 Design Reference
 
