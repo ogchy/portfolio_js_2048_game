@@ -19,17 +19,6 @@ Core
 - HTML5 – Structure
 - CSS3 – Styling
 
-Features
-
-- Keyboard Events – Player controls
-- Grid System – Dynamic board generation
-- Local Storage – Save and load high scores
-
-Development & Deployment
-
-- ESLint + Prettier – Code quality & formatting
-- gh-pages – Deployment
-
 ## ⚙️ Installation & Setup
 
 - Clone the repository:
@@ -53,12 +42,12 @@ Development & Deployment
     yarn start
 
 ✨ Features
-🎮 Classic 2048 gameplay
+  - 🎮 Classic 2048 gameplay
 
-⌨️ Keyboard controls (Arrow keys / WASD)
+  - ⌨️ Keyboard controls (Arrow keys / WASD)
 
-📱 Responsive design – works on desktop and mobile
+  - 📱 Responsive design – works on desktop and mobile
 
-🔄 Restart button to play again
+  - 🔄 Restart button to play again
 
-🏆 Win condition (2048 tile) + "Game Over" state
+  - 🏆 Win condition (2048 tile) + "Game Over" state
